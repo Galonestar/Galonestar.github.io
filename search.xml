@@ -4,6 +4,464 @@
   
     
     <entry>
+      <title>Hello World a</title>
+      <link href="/2023/02/20/a/"/>
+      <url>/2023/02/20/a/</url>
+      
+        <content type="html"><![CDATA[<h1 id="a"><a href="#a" class="headerlink" title="a"></a>a</h1><h2 id="a-1"><a href="#a-1" class="headerlink" title="a"></a>a</h2><p>a</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Web </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>软件架构</title>
+      <link href="/2023/02/20/ruan-jian-jia-gou-1/"/>
+      <url>/2023/02/20/ruan-jian-jia-gou-1/</url>
+      
+        <content type="html"><![CDATA[<h1 id="软件架构"><a href="#软件架构" class="headerlink" title="软件架构"></a>软件架构</h1><h2 id="架构"><a href="#架构" class="headerlink" title="架构"></a>架构</h2><h3 id="组件"><a href="#组件" class="headerlink" title="组件"></a>组件</h3><h3 id="接口"><a href="#接口" class="headerlink" title="接口"></a>接口</h3><h3 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h3><h2 id="组成派"><a href="#组成派" class="headerlink" title="组成派"></a>组成派</h2><h2 id="决策派"><a href="#决策派" class="headerlink" title="决策派"></a>决策派</h2><p>当软件工具达到一定规模，软件开发不完全是<strong>数据结构+算法</strong></p><p>界定物理系统的组成部分，再对其抽象形成软件架构</p><p>企业架构和软件架构的联系和区别</p><h2 id="系统架构师"><a href="#系统架构师" class="headerlink" title="系统架构师"></a>系统架构师</h2><h2 id="架构-1"><a href="#架构-1" class="headerlink" title="架构"></a>架构</h2><p>架构分三种</p><h3 id="逻辑架构"><a href="#逻辑架构" class="headerlink" title="逻辑架构"></a>逻辑架构</h3><h3 id="物理架构"><a href="#物理架构" class="headerlink" title="物理架构"></a>物理架构</h3><h3 id="系统架构"><a href="#系统架构" class="headerlink" title="系统架构"></a>系统架构</h3><h2 id="框架"><a href="#框架" class="headerlink" title="框架"></a>框架</h2><p>领域内最终应用的模板<br><em>一系列完成计算的模块<br>组件间的关系和交互机制<br>一系列可变节点<br>可变节点的行为调整机制</em></p><p>框架和架构的区别<br>框架是软件，架构是设计规约<br>架构目的是指导一个软件系统的实施与开发</p><h3 id="常见框架"><a href="#常见框架" class="headerlink" title="常见框架"></a>常见框架</h3><p>JAVA框架<br>J2EE框架</p><h2 id="三层架构"><a href="#三层架构" class="headerlink" title="三层架构"></a>三层架构</h2><p>UI<br>BLL<br>DAL</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Learn </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>系统工程</title>
+      <link href="/2023/02/20/xi-tong-gong-cheng/"/>
+      <url>/2023/02/20/xi-tong-gong-cheng/</url>
+      
+        <content type="html"><![CDATA[<h1 id="系统工程"><a href="#系统工程" class="headerlink" title="系统工程"></a>系统工程</h1><p>技术与哲学之间，综合运用所学，注重实践，联系实际</p><h2 id="系统-system-systema"><a href="#系统-system-systema" class="headerlink" title="系统-system-systema"></a>系统-system-systema</h2><p>由部分组成的集合<br>自成体系的组织<br>钱学森：由相互作用和相互依赖结合成的具有特定功能的事有机整体</p><h3 id="整体性"><a href="#整体性" class="headerlink" title="整体性"></a>整体性</h3><h3 id="关联性"><a href="#关联性" class="headerlink" title="关联性"></a>关联性</h3><h3 id="目的性"><a href="#目的性" class="headerlink" title="目的性"></a>目的性</h3><h3 id="层次性"><a href="#层次性" class="headerlink" title="层次性"></a>层次性</h3><h3 id="环境适应性"><a href="#环境适应性" class="headerlink" title="环境适应性"></a>环境适应性</h3><p>自然系统&#x2F;人工系统</p><p>实体系统&#x2F;概念系统</p><p>开系统&#x2F;闭系统</p><p>动态系统&#x2F;静态系统</p><p>简单系统（小系统&#x2F;大系统）&#x2F;巨系统</p><h2 id="系统工程-1"><a href="#系统工程-1" class="headerlink" title="系统工程"></a>系统工程</h2><p>规模大、要素众多的复杂任务和项目，需要对它们从整体上把握，<br>处理以上任务的。。。</p><p>系统工程的功能是指导复杂系统的工程</p><p>多输入、多输出、人机系统</p><h2 id="系统建模"><a href="#系统建模" class="headerlink" title="系统建模"></a>系统建模</h2><h3 id="输入"><a href="#输入" class="headerlink" title="输入"></a>输入</h3><h3 id="过程"><a href="#过程" class="headerlink" title="过程"></a>过程</h3><h3 id="输出"><a href="#输出" class="headerlink" title="输出"></a>输出</h3><h2 id="复杂系统"><a href="#复杂系统" class="headerlink" title="复杂系统"></a>复杂系统</h2>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Learn </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>CS与BS</title>
+      <link href="/2023/02/20/cs-yu-bs/"/>
+      <url>/2023/02/20/cs-yu-bs/</url>
+      
+        <content type="html"><![CDATA[<h1 id="CS与BS"><a href="#CS与BS" class="headerlink" title="CS与BS"></a>CS与BS</h1><h2 id="1、CS、BS架构定义"><a href="#1、CS、BS架构定义" class="headerlink" title="1、CS、BS架构定义"></a>1、CS、BS架构定义</h2><p>CS（Client&#x2F;Server）：客户端—-服务器结构。C&#x2F;S结构在技术上很成熟，它的主要特点是交互性强、具有安全的存取模式、网络通信量低、响应速度快、利于处理大量数据。因为客户端要负责绝大多数的业务逻辑和UI展示，又称为胖客户端。它充分利用两端硬件，将任务分配到Client 和Server两端，降低了系统的通讯开销。<br>C&#x2F;S结构的软件需要针对不同的操作系统系统开发不同版本的软件，加之产品的更新换代十分快，已经很难适应百台电脑以上局域网用户同时使用。C&#x2F;S 架构是一种典型的两层架构，其客户端包含一个或多个在用户的电脑上运行的程序，而服务器端有两种，一种是数据库服务器端，客户端通过数据库连接访问服务器端的数据；另一种是Socket服务器端，服务器端的程序通过Socket与客户端的程序通信。<br>BS（Browser&#x2F;Server）：浏览器—-服务器结构，是目前应用系统的发展方向。BS是伴随着Internet技术的兴起，对C&#x2F;S架构的改进，为了区别于传统的C&#x2F;S 模式，特意称为B&#x2F;S模式。在这种结构下，通过W3浏览器来进入工作界面，极少部分事务逻辑在前端（Browser）实现，主要事务逻辑在服务器端（Server）实现，形成三层（3-tier）结构。这样使得客户端电脑负荷大大简化（因此被称为瘦客户端），减轻了系统维护、升级的支出成本，降低了用户的总体成本（TCO）。<br>BS的主要特点是分布性强、维护方便、开发简单且共享性强、总体拥有成本低。但数据安全性问题、对服务器要求过高、数据传输速度慢、软件的个性化特点明显降低，难以实现传统模式下的特殊功能要求。它是瘦客户端，对大量的数据输入以及报表的应答等都需要通过浏览器与服务器进行交互，通信开销大，而且对于实现复杂的应用构造有较大的困难。</p><h2 id="2、CS、BS-对硬件环境的要求"><a href="#2、CS、BS-对硬件环境的要求" class="headerlink" title="2、CS、BS 对硬件环境的要求"></a>2、CS、BS 对硬件环境的要求</h2><p>（1）C&#x2F;S 用户固定，一般只应用于局域网中，要求拥有相同的操作系统，如果对于不同操作系统还要相应开发不同的版本，并且对于计算机电脑配置要求也较高。<br>（2）B&#x2F;S 要求有操作系统和浏览器就行，与操作系统平台无关（可以实现跨平台），对客户端的计算机电脑配置要求较低。</p><h2 id="3、CS的优缺点"><a href="#3、CS的优缺点" class="headerlink" title="3、CS的优缺点"></a>3、CS的优缺点</h2><h3 id="（1）优点："><a href="#（1）优点：" class="headerlink" title="（1）优点："></a>（1）优点：</h3><p>●能充分发挥客户端PC的处理能力，很多工作可以在客户端处理后再提交给服务器，所以CS客户端响应速度快。<br>●操作界面漂亮、形式多样，可以充分满足客户自身的个性化要求。<br>●C&#x2F;S结构的管理信息系统具有较强的事务处理能力，能实现复杂的业务流程。<br>●安全性能可以很容易保证，C&#x2F;S一般面向相对固定的用户群，程序更加注重流程，它可以对权限进行多层次校验，提供了更安全的存取模式，对信息安全的控制能力很强。一般高度机密的信息系统采用C&#x2F;S结构适宜。</p><h3 id="（2）缺点："><a href="#（2）缺点：" class="headerlink" title="（2）缺点："></a>（2）缺点：</h3><p>●需要专门的客户端安装程序，分布功能弱，针对点多面广且不具备网络条件的用户群体，不能够实现快速部署安装和配置。<br>●兼容性差，对于不同的开发工具，具有较大的局限性。若采用不同工具，需要重新改写程序。<br>●开发、维护成本较高，需要具有一定专业水准的技术人员才能完成，发生一次升级，则所有客户端的程序都需要改变。<br>●用户群固定。由于程序需要安装才可使用，因此不适合面向一些不可知的用户，所以适用面窄，通常用于局域网中。</p><h2 id="4、BS的优缺点"><a href="#4、BS的优缺点" class="headerlink" title="4、BS的优缺点"></a>4、BS的优缺点</h2><h3 id="（1）优点：-1"><a href="#（1）优点：-1" class="headerlink" title="（1）优点："></a>（1）优点：</h3><p>●分布性强，客户端零维护。只要有网络、浏览器，可以随时随地进行查询、浏览等业务处理。<br>●业务扩展简单方便，通过增加网页即可增加服务器功能。<br>●维护简单方便，只需要改变网页，即可实现所有用户的同步更新。<br>●开发简单，共享性强。</p><h3 id="（2）缺点：-1"><a href="#（2）缺点：-1" class="headerlink" title="（2）缺点："></a>（2）缺点：</h3><p>●个性化特点明显降低，无法实现具有个性化的功能要求。<br>●在跨浏览器上，BS架构不尽如人意。<br>●客户端服务器端的交互是请求-响应模式，通常动态刷新页面，响应速度明显降低（Ajax可以一定程度上解决这个问题）。无法实现分页显示，给数据库访问造成较大的压力。<br>●在速度和安全性上需要花费巨大的设计成本。<br>●功能弱化，难以实现传统模式下的特殊功能要求。</p><h2 id="小结："><a href="#小结：" class="headerlink" title="小结："></a>小结：</h2><p>CS响应速度快，安全性强，一般应用于局域网中，但是开发维护成本高；BS可以实现跨平台，客户端零维护，但是个性化能力低，响应速度较慢。所以有些单位日常办公应用BS，在实际生产中使用CS结构。</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Web </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>做最硬核的北天药宗攻略</title>
+      <link href="/2023/02/18/bei-tian-yao-zong/"/>
+      <url>/2023/02/18/bei-tian-yao-zong/</url>
+      
+        <content type="html"><![CDATA[<h1 id="做最硬核的北天药宗攻略"><a href="#做最硬核的北天药宗攻略" class="headerlink" title="做最硬核的北天药宗攻略"></a>做最硬核的北天药宗攻略</h1><h2 id="北天药宗"><a href="#北天药宗" class="headerlink" title="北天药宗"></a>北天药宗</h2><p>北天药宗传嗣神农，自秦末建宗，已有近千年发展。历朝历代更不乏名医辈出，由药及医研解诡疾、传方著典，福泽万民。</p><p>宗内门训，于个人为“精”、于宗门为“传”，于世人为“治”。</p><p>“精”者，医术乃至精至微之事，习医之人须博极医源，精勤不倦。“传”者，药广而博，灵方妙药非一日之功，钻研药道除了有水滴石穿之志，还须罗缕纪存，传方后世。“治”者，医道之根本乃治，医者治学，患者治病，未病者治养。</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Game </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>机器人学</title>
+      <link href="/2022/10/12/ji-qi-ren-shi-li/"/>
+      <url>/2022/10/12/ji-qi-ren-shi-li/</url>
+      
+        <content type="html"><![CDATA[<h1 id="机器人实例"><a href="#机器人实例" class="headerlink" title="机器人实例"></a>机器人实例</h1><h2 id="UR系列"><a href="#UR系列" class="headerlink" title="UR系列"></a>UR系列</h2><h2 id="aubo系列"><a href="#aubo系列" class="headerlink" title="aubo系列"></a>aubo系列</h2><h2 id="Franka系列"><a href="#Franka系列" class="headerlink" title="Franka系列"></a>Franka系列</h2>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Robot </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>最优传输</title>
+      <link href="/2022/06/20/zui-you-chuan-shu/"/>
+      <url>/2022/06/20/zui-you-chuan-shu/</url>
+      
+        <content type="html"><![CDATA[<h1 id="最优传输"><a href="#最优传输" class="headerlink" title="最优传输"></a>最优传输</h1><p>代价变换支撑</p><p>支撑包络势能</p><p>势能微分映射</p><p>映射对偶凸形</p><hr><p>最优传输（Optimal Transport）是多个学科交叉的研究领域，包括概率、分析以及优化等。 最优传输研究的主要目标是建立有效比较概率分布的几何工具。 以法国数学家蒙日（Monge）在二百多年前给出的问题为例：当给定两个沙盘时（每盘沙子可以代表一个概率分布），可以通过很多方式将一个沙盘传输（Transport or Reshape）到另一个沙盘。 基于传输单个沙粒的局部花费，每一种传输方法均对应一个全局花费。 最优传输的目的就是寻找总体花费最少的传输方案，从而进一步建立面向概率分布的几何工具集。 最优传输问题有着悠久而丰富的研究历史，最早可以追溯到上文所提到十八世纪的蒙日。</p><h2 id="理论心得"><a href="#理论心得" class="headerlink" title="理论心得"></a>理论心得</h2><p>1.精确求解隐空间数据分布的支撑集，在深度学习中具有重要作用</p><p>2.深度学习方法的有效性可以部分归纳为：这种方法反映了数据集的内在规律，而数据集的内在规律可以归纳为流形分布定则。这一定则类似物理中的规律，无法用数学公理通过逻辑进行严格证明，但在实际应用中无时无刻不起着至关重要的作用</p><p>3.深度学习的中心任务包括：学习数据流形的流形结构；学习数据的概率测度分布</p><p>4.深度学习方法中，图像去噪被解释为几何上的投影</p><p>5.（一般位置定理）提高嵌入空间的维数，可以为数据流形解套。深度神经网络前几层宽度增加，是为了升高流形嵌入空间的维数；然后逐步降低，是为了投影</p><p>6.Urysohn引理是模式识别的理论基础。深度学习系统通过训练学习Urysohn函数，在不同模式上取值不同，由此进行分类识别</p><p>7.ReLU深度神经网络所能表达的分片线性映射的片数上限，给出了神经网络学习能力的定量描述</p><p>8.通过编码Peano曲线，测试深度神经网络的学习能力</p><p>9.（对抗生成网络）应用最优传输理论，判别器本质上是在计算生成分布与真实数据分布之间的Wasserstein距离，即最优传输映射的传输代价。等价地，判别器计算相应的Kantorovich势能函数。由此，生成器试图蒙骗判别器，判别器试图分辨真假样本，两者相互竞争，达到Nash均衡</p><p>10.生成器和判别器应该合作共享中间计算成果，而非竞争对抗</p><p>11.如果目标测度的支撑集非凸，则最优传输映射可能非连续</p><p>12.（接11）由Brenier极分解定理，一般的传输映射是最优传输映射与保测度同胚的复合。因此，这种情形下，传输映射也是非连续的</p><p>13.（接12）我们知道，深度神经网络只能表达连续映射，因而无法表示一般的传输映射。因此，训练过程或者无法收敛，或者收敛到某个连续的传输映射。其目标区域限制在某些模式，遗漏其他模式，导致模式坍塌；或者收敛到某个连续传输映射，其像覆盖所有模式，同时覆盖模式之间的空隙，导致模式混淆</p><p>14（接13）这些问题的本质原因在于，欲求传输映射的非连续性与深度神经网络只能表达连续映射的矛盾</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Learn </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>笑</title>
+      <link href="/2022/03/09/2021.3.9/"/>
+      <url>/2022/03/09/2021.3.9/</url>
+      
+        <content type="html"><![CDATA[<h1 id="笑"><a href="#笑" class="headerlink" title="笑"></a>笑</h1><p>笑</p><p>年少</p><p>遇芳草</p><p>魂牵梦绕</p><p>倩影忘不掉</p><p>梦里几多妖娆</p><p>春风拂柳金步摇</p><p>半敛娇容羞煞红药</p><p>月剪银河佳人舞红绡</p><p>相伴东风起游遍廿四桥</p><p>令人痴恋暮暮又朝朝</p><p>奈何金风浅吹不到</p><p>奈何红线够不着</p><p>痴儿独自苦恼</p><p>残月上柳梢</p><p>花开半好</p><p>任飘渺</p><p>罢了</p><p>熬​</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Thought </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>概率论</title>
+      <link href="/2022/01/20/gai-lu-lun/"/>
+      <url>/2022/01/20/gai-lu-lun/</url>
+      
+        <content type="html"><![CDATA[<h1 id="概率论"><a href="#概率论" class="headerlink" title="概率论"></a>概率论</h1><p>Ex &#x3D; fwq到zwq xf（x）dx 中心 但不一定为1</p><p>x，y相互独立 则f（x，y）&#x3D;f（x）f（y）</p><p>联合分布律</p><p>边缘函数，对另一个变量求偏导</p><p>条件概率密度，连续函数<br>x丨y，fwq到x  f（x，y）除y的边缘分布对x积分</p><p>中心极限定理</p><p>距估计，最大似然估计<br>似然函数，所有的概率乘取值相乘<br>取ln，求极值</p><p>两个独立分布的正态分布的和与差都是正态分布，期望是期望之和或差，方差为方差之和<br>正态分布的概率公式</p><p>卡方分布要求0-1，所以把前面化为0到1正态分布</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Learn </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>实时操作系统环境搭建</title>
+      <link href="/2022/01/12/shi-shi-xi-tong/"/>
+      <url>/2022/01/12/shi-shi-xi-tong/</url>
+      
+        <content type="html"><![CDATA[<h1 id="实时操作系统环境搭建"><a href="#实时操作系统环境搭建" class="headerlink" title="实时操作系统环境搭建"></a>实时操作系统环境搭建</h1><h2 id="Ubuntu20-04"><a href="#Ubuntu20-04" class="headerlink" title="Ubuntu20.04"></a>Ubuntu20.04</h2><p>kde桌面文件系统‌<br>Python系<br>anaconda<br>深度学习<br>gcc‌<br>cmake‌<br>opencv‌</p><h2 id="实时核RT‌"><a href="#实时核RT‌" class="headerlink" title="实时核RT‌"></a>实时核RT‌</h2><h2 id="libfranka"><a href="#libfranka" class="headerlink" title="libfranka"></a>libfranka</h2><p>deeplabcut‌<br>darknet‌<br>Qt<br>wine<br>qq‌<br>clash<br>cloudmusic</p><p>cuda<br>cudnn<br>显卡驱动<br>pycharm<br>clion<br>idea<br>vscode<br>qt creator<br>tree<br>net-tools<br>杂七杂八</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Linux </tag>
+            
+            <tag> Robot </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>机器人学</title>
+      <link href="/2021/11/12/ji-qi-ren/"/>
+      <url>/2021/11/12/ji-qi-ren/</url>
+      
+        <content type="html"><![CDATA[<h1 id="机器人学"><a href="#机器人学" class="headerlink" title="机器人学"></a>机器人学</h1><h2 id="概念解释"><a href="#概念解释" class="headerlink" title="概念解释"></a>概念解释</h2><h3 id="D-H-参数："><a href="#D-H-参数：" class="headerlink" title="D-H 参数："></a>D-H 参数：</h3><p>D-H参数包含α（连杆扭转角）、a（连杆长度）、d（连杆偏距）以及θ（关节角）这四个运动学参数，其中前两个参数用来描述连杆本身，后两个参数用来描述连杆之间的连接关系，这种用连杆参数描述机构运动关系的规则称为Denavit-Hartenberg方法，相应的参数称为D-H参数。</p><h3 id="D-H-参数：-1"><a href="#D-H-参数：-1" class="headerlink" title="D-H 参数："></a>D-H 参数：</h3><p>D-H参数包含α（连杆扭转角）、a（连杆长度）、d（连杆偏距）以及θ（关节角）这四个运动学参数，其中前两个参数用来描述连杆本身，后两个参数用来描述连杆之间的连接关系，这种用连杆参数描述机构运动关系的规则称为Denavit-Hartenberg方法，相应的参数称为D-H参数。</p><h3 id="工作空间："><a href="#工作空间：" class="headerlink" title="工作空间："></a>工作空间：</h3><p>机器人的末端执行器的能达到的所有位置的集合。</p><h3 id="运动学："><a href="#运动学：" class="headerlink" title="运动学："></a>运动学：</h3><h4 id="正运动学：已知机器人各关节变量的取值，确定末端执行器的位置和姿态。"><a href="#正运动学：已知机器人各关节变量的取值，确定末端执行器的位置和姿态。" class="headerlink" title="正运动学：已知机器人各关节变量的取值，确定末端执行器的位置和姿态。"></a>正运动学：已知机器人各关节变量的取值，确定末端执行器的位置和姿态。</h4><h4 id="逆运动学：已知工具坐标系相对于固定坐标系的期望位置和姿态，求解各个关节角度。"><a href="#逆运动学：已知工具坐标系相对于固定坐标系的期望位置和姿态，求解各个关节角度。" class="headerlink" title="逆运动学：已知工具坐标系相对于固定坐标系的期望位置和姿态，求解各个关节角度。"></a>逆运动学：已知工具坐标系相对于固定坐标系的期望位置和姿态，求解各个关节角度。</h4><h3 id="雅克比矩阵："><a href="#雅克比矩阵：" class="headerlink" title="雅克比矩阵："></a>雅克比矩阵：</h3><p>雅克比矩阵实质上是一种时变的线性变换，机器人的雅克比矩阵描述了机器人各关节速度（关节空间下）与机器人末端速度（笛卡尔空间下）之间的线性映射关系。</p><h3 id="轨迹规划"><a href="#轨迹规划" class="headerlink" title="轨迹规划"></a>轨迹规划</h3><h3 id="运动规划"><a href="#运动规划" class="headerlink" title="运动规划"></a>运动规划</h3><h2 id="旋转-amp-平移"><a href="#旋转-amp-平移" class="headerlink" title="旋转&amp;平移"></a>旋转&amp;平移</h2><h3 id="欧拉角"><a href="#欧拉角" class="headerlink" title="欧拉角"></a>欧拉角</h3><h3 id="四元数"><a href="#四元数" class="headerlink" title="四元数"></a>四元数</h3><h3 id="齐次变换矩阵"><a href="#齐次变换矩阵" class="headerlink" title="齐次变换矩阵"></a>齐次变换矩阵</h3>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Robot </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Linux 入门</title>
+      <link href="/2021/10/12/cmake/"/>
+      <url>/2021/10/12/cmake/</url>
+      
+        <content type="html"><![CDATA[<h1 id="cmake"><a href="#cmake" class="headerlink" title="cmake"></a>cmake</h1><p>project(name)</p><p>include_directories(dir)</p><p>add_executable()添加文件进源文件</p><p>aux_source_directory(dir var) 添加一个目录进源文件<br>set命令去新建变量来存放需要的源文件</p><h2 id="命令"><a href="#命令" class="headerlink" title="命令"></a>命令</h2><p>add_library: 生成动态库或静态库(第1个参数指定库的名字；第2个参数决定是动态还是静态，如果没有就默认静态；第3个参数指定生成库的源文件)<br>set_target_properties: 设置最终生成的库的名称，还有其它功能，如设置库的版本号等等<br>LIBRARY_OUTPUT_PATH: 库文件的默认输出路径，这里设置为工程目录下的lib目录<br>find_library: 在指定目录下查找指定库，并把库的绝对路径存放到变量里，其第一个参数是变量名称，第二个参数是库名称，第三个参数是HINTS，第4个参数是路径，其它用法可以参考cmake文档<br>target_link_libraries: 把目标文件与库文件进行链接<br>add_compile_options:添加编译选项，如c版本等</p><h3 id="option："><a href="#option：" class="headerlink" title="option："></a>option：</h3><p><em>cmake_minimum_required (VERSION 2.8)</em><br><em>project (demo)</em><br><em>set (EXECUTABLE_OUTPUT_PATH ${PROJECT_SOURCE_DIR}&#x2F;bin)</em><br><em>aux_source_directory (src SRC_LIST)</em><br><em>include_directories (include)</em><br><em>add_executable (main ${SRC_LIST})</em></p><p>cmake .<br>cmake ..</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Linux </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Linux 入门</title>
+      <link href="/2021/07/10/linux/"/>
+      <url>/2021/07/10/linux/</url>
+      
+        <content type="html"><![CDATA[<h1 id="linux-入门"><a href="#linux-入门" class="headerlink" title="linux 入门"></a>linux 入门</h1><h2 id="安装linux"><a href="#安装linux" class="headerlink" title="安装linux"></a>安装linux</h2>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Linux </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>人间失格</title>
+      <link href="/2021/03/29/2021-3-29/"/>
+      <url>/2021/03/29/2021-3-29/</url>
+      
+        <content type="html"><![CDATA[<h1 id="人间失格"><a href="#人间失格" class="headerlink" title="人间失格"></a>人间失格</h1><p><strong>若能避开猛烈的欢喜，自然不会有悲痛来袭。</strong></p><p><strong>我的不幸，恰恰在于我缺乏拒绝的能力。我害怕一旦拒绝别人，便会在彼此心里留下永远无法愈合的裂痕。</strong></p><p>胆小鬼连幸福都会害怕，碰到棉花都会受伤，有时还被幸福所伤。</p><p>我仍然认为向人诉苦不过是徒劳，与其如此，不如默默承受。</p><p>从孩提时代起，我就一直在讨好周围的人，这是我对人类最后的求爱。</p><p><strong>一有机会，人类可怕的真面目就会在愤怒中不经意地暴露出来。</strong></p><p>如今的我，谈不上幸福，也谈不上不幸。</p><p>相互轻蔑却又彼此来往，并一起自我作贱–这就是世.上所谓“朋友”的真面目。<strong>​</strong></p><p>愈是敏感、愈是胆怯，愈会企盼暴风雨降临得更加猛烈。</p><p>瞬间不足以成为生命的喜悦，我只相信死亡那一瞬间的纯粹。</p><p>人是不可能一边攥紧拳头一边微笑的，唯有猴子才会那样。</p><p><strong>日日重复同样的事，遵循着与昨日相同的惯例，若能避开猛烈的狂喜，自然也不会有悲痛的来袭。</strong></p><p>我并不怕死，但若是受伤流血，变成残废，我可不要。</p><p>因为我更像一个丑陋的怪物，虽然很想普普通通地活得像个人，但社会却一直将我当做一个怪物。</p><p><strong>我开始隐隐约约明白了世间的真相，它就是个人与个人之间的争斗，而且是即时即地的斗争，人需要在那种争斗中当场取胜。</strong></p><p>为别人着迷，或者被人迷恋，感觉都很粗俗、戏谑，有得意扬扬愚弄他人之感。</p><p>唯有尽力自持，方不致癫狂。<strong>​</strong></p><p>来源:太宰治《人间失格》</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Book </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>春</title>
+      <link href="/2021/03/27/2021-3-27/"/>
+      <url>/2021/03/27/2021-3-27/</url>
+      
+        <content type="html"><![CDATA[<h1 id="春天"><a href="#春天" class="headerlink" title="春天"></a>春天</h1><p>用风筝做饵，吊起一整片春天​</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Thought </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>雪莱</title>
+      <link href="/2021/03/20/2021-3-20/"/>
+      <url>/2021/03/20/2021-3-20/</url>
+      
+        <content type="html"><![CDATA[<pre><code>层层世界在永恒地翻滚着，从肇始到毁灭，像河水激起的水泡，闪亮着、破裂着以至于消亡。                （雪莱）</code></pre>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Thought </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>爱</title>
+      <link href="/2021/03/18/2021-3-18/"/>
+      <url>/2021/03/18/2021-3-18/</url>
+      
+        <content type="html"><![CDATA[<h1 id="无名"><a href="#无名" class="headerlink" title="无名"></a>无名</h1><p>沧波老树性所爱</p><p>水窗低傍画栏流</p><p>珠蕊琼花斗剪星</p><p>松竹相亲是旧雨</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Thought </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>冰与火之歌</title>
+      <link href="/2021/03/18/2021-3-18-083539/"/>
+      <url>/2021/03/18/2021-3-18-083539/</url>
+      
+        <content type="html"><![CDATA[<h1 id="守夜人誓言"><a href="#守夜人誓言" class="headerlink" title="守夜人誓言"></a>守夜人誓言</h1><p>长夜将至，我从今开始守望，至死方休。我将不娶妻、不封地、不生子。我将不戴宝冠，不争荣宠。我将尽忠职守，生死于斯。我 是黑暗中的利剑，长城上的守卫。我是抵御寒冷的烈焰，破晓时分的光线，唤醒眠者的号角，守护王国的坚盾。我将生命与荣耀献给守夜人，今夜如此，夜夜皆然。</p><p>Night gathers, and now my watch begins. It shall not end until my death. I shall take no wife, hold no lands, father no children. I shall wear no crowns and win no glory. I shall live and die at my post. I am the sword in the darkness. I am the watcher on the walls. I am the fire that burns against the cold, the light that brings the dawn, the horn that wakes the sleepers, the shield that guards the realms of men. I pledge my life and honor to the Night’s Watch, for this night and all the nights to come。</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Book </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>回声</title>
+      <link href="/2021/03/14/2021-3-14/"/>
+      <url>/2021/03/14/2021-3-14/</url>
+      
+        <content type="html"><![CDATA[<p>没有道路通向从前离去的地方。</p><p>我不渴望走过已经很久。</p><p>并且那里有什么？这座地板、石头上喋血的小石城，</p><p>遭豁免的被遗忘的门，</p><p>或者毫无耐心的回声</p><p>——阿赫马托娃《回声》</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Book </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>盗将行</title>
+      <link href="/2021/03/13/2021-3-13/"/>
+      <url>/2021/03/13/2021-3-13/</url>
+      
+        <content type="html"><![CDATA[<h1 id="盗将行"><a href="#盗将行" class="headerlink" title="盗将行"></a>盗将行</h1><pre><code>劫过九重城关我座下马正酣看那轻飘飘的衣摆趁擦肩把裙掀踏遍三江六岸借刀光做船帆任露水浸透了短衫大盗睥睨四野枕风宿雪多年我与虎谋早餐拎着钓叟的鱼弦问卧龙几两钱蜀中大雨连绵关外横尸遍野你的笑像一条恶犬撞乱了我心弦谈花饮月赋闲这春宵艳阳天待到梦醒时分睁眼铁甲寒意凛冽夙愿只隔一箭故乡近似天边不知何人浅唱弄弦我彷徨不可前枕风宿雪多年我与虎谋早餐拎着钓叟的鱼弦问卧龙几两钱蜀中大雨连绵关外横尸遍野你的笑像一条恶犬撞乱我心弦烽烟万里如衔掷群雄下酒宴谢绝策勋十二转想为你窃玉簪入巷间吃汤面笑看窗边飞雪取腰间明珠弹山雀立枇杷于庭前入巷间吃汤面笑看窗边飞雪取腰间明珠弹山雀立枇杷于庭前​</code></pre><p>盗将行，初相遇，把衣掀，下马歉，四目对，把情生，盗其心，汴梁城，度三年，吃汤面，谈飞雪，取明珠，弹山雀，忽一日，心意绝，娶其妻，市井言，有一簪，若得之，赠爱侣，定终身，便辞行，言数日，归来时，娶尔日，窃簪返，便闻得，汴梁城，金军入，心中盼，女子安，不尽意，女子丧，大盗伤，恨己盗，或善恶，终有报，恨不消，从军行，思恋存，杀敌勇，射其将，金军败，封将军，无心恋，辞官返，回故巷，从此后，一笑轩，说书人，百姓爱，座满堂，听他语，诉平生，始复终，众人散，独落泪，门前树，伊人栽，树梢簪，生平事，醉其中。​</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Book </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>鼠疫</title>
+      <link href="/2021/03/13/2021.3.13/"/>
+      <url>/2021/03/13/2021.3.13/</url>
+      
+        <content type="html"><![CDATA[<h1 id="《鼠疫》"><a href="#《鼠疫》" class="headerlink" title="《鼠疫》"></a>《鼠疫》</h1><h2 id="手记"><a href="#手记" class="headerlink" title="手记"></a>手记</h2><p>试图与世隔绝永远是虚妄的。哪怕是为了隔绝他人的愚行与残酷。我们不能说，我不知情，要么同流合污，要么挺身应战。没有什么比战争及挑动民族仇恨，更不可原谅。然而一旦战争爆发，以事不关己的借口试图置身事外，是虚妄和懦弱的。象牙塔已然崩塌无论对于自己还是他人，都应严谨逆来顺受。</p><p>从外部去评断某一事件是不可能的，也是不道德的。我有在这荒诞的灾祸内部我们方才保有蔑视它的权利……我身处战争之中，并且我拥有评断他的权利，加以评断并展开行动。</p><p>反抗将其自身的价值赋予生命。它延展在生存的完整始末，恢复了生存的伟大。对于眼界宽广的人来说，没有什么美景能够超过智慧与一种人不知所措的现实的搏斗。人类的自尊是一种无与伦比的景观。一切贬低在此都将毫无意义。这种精神自律的守则，这种由万事万物锻造而成的意志，这种直面的态度。这其中包含着某种强大而独特的东西。现实的非人性造就了人的伟大。削弱这种现实，也就同时削弱了人自己。</p><hr><pre><code>在这儿我领悟了人们所说的光荣：就是无拘无束地爱的权利。                         ——阿尔贝·加缪</code></pre>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Book </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>过去与未来</title>
+      <link href="/2021/03/12/2021-3-12/"/>
+      <url>/2021/03/12/2021-3-12/</url>
+      
+        <content type="html"><![CDATA[<h1 id="过去与未来"><a href="#过去与未来" class="headerlink" title="过去与未来"></a>过去与未来</h1><p>你看到的容颜至少是3皮秒之前的；<br>你听到的呢喃至少是30微秒之前的；<br>你嗅到的幽香至少是300微秒之前的；<br>你也不要忘记，<br>记入、传输、解码这些信号的时间，<br>就连你触到她柔荑的感觉，<br>也在躯体中走过了漫漫长路。<br>看吧，就连你眼前的这个人儿，<br>你也只能看到她的过去，<br>可是并不能阻止你满怀爱意的筹划你们的未来。​</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Thought </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>纪京阿尼</title>
+      <link href="/2021/03/11/2021-3-11/"/>
+      <url>/2021/03/11/2021-3-11/</url>
+      
+        <content type="html"><![CDATA[<h1 id="纪京阿尼"><a href="#纪京阿尼" class="headerlink" title="纪京阿尼"></a>纪京阿尼</h1><p>相良宗介的狂潮落下帷幕</p><p>神尾观铃眺望航迹云伴随羽翼- -同消失在天际凉宫春日的部室已然化作寂静</p><p>冈崎朋也看着Clannda的光辉又是如何做想亦无人知晓</p><p>轻音部一首首歌如今只在心间回荡</p><p>千反田爱瑠那一-句“我很好奇”又何时才能再能问起</p><p>六花那戴眼罩做V型手势的中二病难再毕业玉子市场日常的热闹与温馨也许从此不再七濑遥在泳池的身影何时才能再现</p><p>栗山未来的未来能否再一起看见境界的彼方可儿江塑造的甘城游乐园的光辉又要何时才能实现</p><p>久美子与吹奏部一同吹响那悲痛的乐章那怪灵的世界是否还能看见消失的辉煌薇尔莉特用机械的手指打出真情的书信伴着紫罗兰的花香寄予你最深切的念想–致最爱的京阿尼与事故中死伤的人们</p><pre><code>                      愿天堂开满紫罗兰​</code></pre>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Thought </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>吴孟达</title>
+      <link href="/2021/03/04/wu-meng-da/"/>
+      <url>/2021/03/04/wu-meng-da/</url>
+      
+        <content type="html"><![CDATA[<p>2021-3-4</p><p>吴孟达，香港知名艺人，七岁随父母移民香港，后为电影、电视剧男演员。在香港电影中与周星驰合作成为搞笑无厘头的黄金搭档。</p><p>享年68岁。</p><h1 id="达叔，一路走好"><a href="#达叔，一路走好" class="headerlink" title="达叔，一路走好"></a>达叔，一路走好</h1><h2 id="江城子·悼吴孟达"><a href="#江城子·悼吴孟达" class="headerlink" title="江城子·悼吴孟达"></a>江城子·悼吴孟达</h2><h3 id="诗人：元之"><a href="#诗人：元之" class="headerlink" title="诗人：元之"></a>诗人：元之</h3><p>厦门郎孟达吴乡，赴香江，艺人当。<br>跌宕迷茫、自赌圣新张。<br>数载星爷成搭档，嬉戏浪、世情长。</p><p>忽闻仙逝倍心伤，悼文张、角当忘。<br>不决泪行、终反黑流浪。<br>编导自传成未放，留心上、愿天堂。​</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Thought </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2021/03/04/hello-world/"/>
       <url>/2021/03/04/hello-world/</url>
@@ -11,6 +469,12 @@
         <content type="html"><![CDATA[<p>Welcome to <a href="https://galonestar.github.io/">Galonestar</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class=" language-bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class=" language-bash"><code class="language-bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class=" language-bash"><code class="language-bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class=" language-bash"><code class="language-bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
       
       
+      
+        <tags>
+            
+            <tag> Web </tag>
+            
+        </tags>
       
     </entry>
     
